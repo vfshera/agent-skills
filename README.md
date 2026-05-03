@@ -18,6 +18,13 @@ Learn more about the CLI usage at [skills](https://github.com/vercel-labs/skills
 
 ## 🛠️ Available Skills
 
+### 📋 [Spec-Driven Development](skills/spec-driven-development/SKILL.md)
+
+Structured methodology for AI-assisted development with Six-File Context System.
+
+- **Phases**: 4 (grilling, context generation, build planning, spec execution)
+- **Triggers**: User invokes "spec driven development" or starting new AI-assisted project
+
 ### 🟨 [JavaScript Best Practices](https://github.com/vfshera/agent-skills/blob/main/skills/js-best-practices/SKILL.md)
 
 Performance optimization and code style patterns for JavaScript and TypeScript.
